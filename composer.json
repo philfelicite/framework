@@ -1,0 +1,16 @@
+{
+    "name": "phili/framework",
+    "description": "creation framework maison",
+    "autoload": {
+        "psr-4": {
+            "Phili\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dev"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
